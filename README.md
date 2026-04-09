@@ -1,16 +1,25 @@
-## Hi there 👋
+# Joseph Sebastian
 
-<!--
-**joseph-sebastian-js1/joseph-sebastian-js1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technology & Operations Leader | PMP | Indian Navy Officer
 
-Here are some ideas to get you started:
+11+ years delivering complex technical operations in high-stakes environments — 
+UAV systems, network infrastructure, engineering team leadership, and 
+defence-grade program management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transitioning to IT Management and project leadership in the corporate sector.
+
+### 🎯 Domain Expertise
+- UAV Fleet Operations & Diagnostic Systems
+- Network Infrastructure
+- Engineering Team Leadership
+- Supply Chain Governance & Program Management
+
+### 📚 Certifications
+- PMP — Project Management Professional
+- Six Sigma Green Belt
+- IIM Lucknow — Advanced Program in Global Operations & Supply Chain Analytics
+
+### 📫 Connect
+- [LinkedIn](www.linkedin.com/in/joseph-sebastian-js1)
+
+*"Operational precision. Technical depth. Leadership at scale."*
